@@ -177,7 +177,6 @@ before adding any other complexity.
 ```ruby
 def greeting
   puts "Hello World" # Now code the body of the method.
-end
 ```
 
 ### Invoking a Method
